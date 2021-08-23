@@ -1,0 +1,10 @@
+.input {
+  border: none!important;
+  background: #000000!important;
+  outline: none!important;
+}
+.arg{
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
